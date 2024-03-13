@@ -4,16 +4,14 @@
 # Personal Information
 name = "Willy Trethewey"
 age = 23
-university = "Payap University"
-major = "English Communication"
 
 # Education
 education = {
-    "University": {
+    "University": Payap {
         "Name": university,
         "Degree": "Bachelor's Degree",
-        "Major": major,
-        "Expected_Graduation": "2023"
+        "Major": English Comunnication,
+        "Expected_Graduation": "2024"
     }
 }
 
